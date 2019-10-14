@@ -1,10 +1,6 @@
 @media only screen and (max-width: 1024px) {
-  html, body {
-    min-height: 100vh;
-    height: 100%;
-  }
-  body {
-    background-size: cover;
+  section {
+    background: url("../images/alasdair-elmes-ULHxWq8reao-unsplash.jpg") no-repeat center top fixed;
   }
 
   .content {
@@ -16,3 +12,4 @@
   }
 
 }
+no-repeat center top fixed;
