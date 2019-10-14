@@ -6,5 +6,7 @@
   form {
     margin: 0 auto;
   }
-
+  form input {
+    width: 100%;
+  }
 }
