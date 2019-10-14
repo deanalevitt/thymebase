@@ -1,3 +1,6 @@
 @media only screen and (max-width: 480px) {
-
+  .content {
+    margin: 0 auto;
+    color: pink;
+  }
 }
