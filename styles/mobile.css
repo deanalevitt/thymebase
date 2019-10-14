@@ -1,4 +1,11 @@
 @media only screen and (max-width: 1024px) {
+  html, body {
+    min-height: 100%;
+  }
+  body {
+    background-size: cover;
+  }
+
   .content {
     width: 100%
   }
@@ -6,7 +13,5 @@
   form {
     margin: 0 auto;
   }
-  form input {
-    width: 100%;
-  }
+
 }
